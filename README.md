@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basanagouda sb</h1>
 <h3 align="center">A passionate Data science enthusiast looking data analyst and data scientist job roles</h3>
 
-- 🌱 I’m  Data Science Intern **streamlit flask**
+- 🌱 I’m  Data Science Intern 
 
 - 👨‍💻 All of my projects are available at [https://github.com/BASANAGOUDA-SB](https://github.com/BASANAGOUDA-SB)
 
