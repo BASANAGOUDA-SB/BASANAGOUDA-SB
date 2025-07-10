@@ -61,20 +61,16 @@ I'm **Basanagouda SB**, a data-driven professional with over **3 years of indust
   Designed a SQL-based system for guest, booking, and room tracking
 
 - 🛒 [Blinkit Sales Dashboard](https://github.com/BASANAGOUDA-SB/Blinkit-Analysis)  
-  Built Power BI dashboards analyzing categories, cities, outlet performance
+  Built Power BI dashboards analyzing categories, cities, Outlet performance
 
 ---
 
 ### 🏅 Certifications
 
 - 📚 **Complete Data Science, Machine Learning, DL, NLP Bootcamp** – *Krish Naik, Udemy*
-- 📊 **13 Power BI Portfolio Projects with DAX & SQL (2025 Edition)** – *Insight BI Solutions, Udemy*
-
-
- 
 - 📊 **The Data Science Course: Complete Data Science Bootcamp 2025** – Udemy*  
 - 🐍 **Python Bootcamp: Zero to Hero** – *Jose Portilla, Udemy* 
-- 🧠 **compleate Data Science,Machine Learning,DL,NLP Bootcamp – *Krish Naik, Udemy*
+- 🧠 **complete Data Science, Machine Learning, DL, NLP Bootcamp – *Krish Naik, Udemy*
 - 🎯 **Bi projects with DAX and SQL – *Insigh BI Solutions Pvt Ltd, Udemy*
 - 🔗 **Generative AI with LangChain & HuggingFace** – *Krish Naik, Udemy*
 - 📜 *IBM, ExcelR & ProITbridge Certifications on ML, AI & Python*
@@ -91,13 +87,7 @@ I'm **Basanagouda SB**, a data-driven professional with over **3 years of indust
 
 ---
 
-### ⚡ Fun Fact
-
-> "I automate so many reports… Excel once thought I was a bot 🤖"
-
----
-
-⭐ _If you like what you see, feel free to connect, collaborate, or contribute!_
+⭐ _If you like what you see, feel free to connect, collaborate, or contribute...!!!_
 
 ---
 
@@ -106,11 +96,8 @@ I'm **Basanagouda SB**, a data-driven professional with over **3 years of indust
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
-  <img src="https://img.icons8.com/fluency/48/deep-learning.png" alt="Deep Learning"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-transformer-artificial-intelligence-flat-flat-juicy-fish.png" alt="Transformers"/>
 </p>
