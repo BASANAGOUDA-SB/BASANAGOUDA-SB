@@ -1,16 +1,126 @@
-<h1 align="center">Hi 👋, I'm Basanagouda sb</h1>
-<h3 align="center">A passionate Data science enthusiast looking data analyst and data scientist job roles</h3>
 
-- 🌱 I’m  Data Science Intern 
-
-- 👨‍💻 All of my projects are available at [https://github.com/BASANAGOUDA-SB](https://github.com/BASANAGOUDA-SB)
-
-- 📫 mail **basanagoudasb1995@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi there, I'm Basanagouda SB 👋</h1>
+<p align="center">
+  🚀 Data Analyst | Business Analyst | Aspiring Data Scientist<br>
+  📍 Bangalore, India | 💼 Open to New Opportunities
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+
+I'm **Basanagouda SB**, a data-driven professional with over **3 years of industry experience** in Data Analytics and Business Analysis. Currently working as a **Business Analyst at Kalyani Motors**, I'm on a transition path toward becoming a **Data Scientist** with a strong foundation in statistics, machine learning, and real-world problem solving.
+
+🔍 I’m passionate about transforming raw data into actionable insights using tools like **Python, SQL, Power BI, Tableau**, and **Machine Learning**.  
+🎯 I enjoy solving analytical problems and building data pipelines, dashboards, and predictive models.
+
+---
+
+### 🧰 Tech Stack & Skills
+
+**Languages**: Python, R, SQL  
+**Databases**: MySQL, MongoDB  
+**Libraries & Frameworks**: Pandas, Numpy, Scikit-Learn, TensorFlow, Keras, PyTorch  
+**Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+**Tools**: Jupyter Notebook, VS Code, Git, GitHub  
+**Concepts**: Machine Learning, AI, EDA, Time Series, Automation, Forecasting
+
+---
+
+### 💼 Work Experience
+
+- **Business Analyst | Kalyani Motors Pvt Ltd** (2024 – Present)  
+  • Analyzed vehicle sales and pricing strategies using Excel & SQL  
+  • Built Power BI dashboards for sales, inventory, and performance  
+  • Automated reports and improved procurement using data insights  
+
+- **Data Scientist Intern | ProITbridge** (Apr 2024 – Nov 2024)  
+  • Built supervised ML models (SVM, KNN, Logistic Regression)  
+  • Worked with Python, TensorFlow, Scikit-learn, and StatsModel  
+  • Implemented clustering and recommendation engines  
+
+- **MIS Analyst | Lavin Granites** (Oct 2023 – Mar 2024)  
+  • Advanced Excel analytics, SQL-based inventory optimization  
+  • Automated reporting with SQL + Macros  
+
+- **Data Analyst | Aidio** (Oct 2021 – Jun 2023)  
+  • Used SQL + Python for segmentation, performance analysis  
+  • Built Power BI dashboards for sales and menu insights  
+
+---
+
+### 🚀 Projects
+
+- 🔥 [YouTube Trending Video Analysis](https://github.com/BASANAGOUDA-SB/Youtube-Trending-Video-analysis-using-API)  
+  Analyze trending factors using YouTube API, ML models, and GCP
+
+- 📈 [Stock Multivariate Forecasting](https://github.com/BASANAGOUDA-SB/Multivariate-Analysis)  
+  Built a VAR model to forecast multivariate time series stock prices
+
+- 🏨 [Hotel Management System – SQL](https://github.com/BASANAGOUDA-SB/HOTEL-MANAGEMENT-SYSTEM)  
+  Designed a SQL-based system for guest, booking, and room tracking
+
+- 🛒 [Blinkit Sales Dashboard](https://github.com/BASANAGOUDA-SB/Blinkit-Analysis)  
+  Built Power BI dashboards analyzing categories, cities, outlet performance
+
+---
+
+### 🏅 Certifications
+
+- 📚 **Complete Data Science, Machine Learning, DL, NLP Bootcamp** – *Krish Naik, Udemy*
+- 📊 **13 Power BI Portfolio Projects with DAX & SQL (2025 Edition)** – *Insight BI Solutions, Udemy*
+
+
+ 
+- 📊 **The Data Science Course: Complete Data Science Bootcamp 2025** – Udemy*  
+- 🐍 **Python Bootcamp: Zero to Hero** – *Jose Portilla, Udemy* 
+- 🧠 **compleate Data Science,Machine Learning,DL,NLP Bootcamp – *Krish Naik, Udemy*
+- 🎯 **Bi projects with DAX and SQL – *Insigh BI Solutions Pvt Ltd, Udemy*
+- 🔗 **Generative AI with LangChain & HuggingFace** – *Krish Naik, Udemy*
+- 📜 *IBM, ExcelR & ProITbridge Certifications on ML, AI & Python*
+-     
+
+---
+
+### 📬 Let's Connect
+
+- 📧 **Email**: [basanagoudasb1995@gmail.com](mailto:basanagoudasb1995@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/basanagouda-sb](https://www.linkedin.com/in/basanagouda-sb/)  
+- 🧠 **Coding Profiles**:  
+  [LeetCode](https://leetcode.com/) | [HackerRank](https://www.hackerrank.com/) | [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BASANAGOUDA-SB&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASANAGOUDA-SB&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> "I automate so many reports… Excel once thought I was a bot 🤖"
+
+---
+
+⭐ _If you like what you see, feel free to connect, collaborate, or contribute!_
+
+---
+
+### 🚀 Tech I Work With
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
+  <img src="https://img.icons8.com/fluency/48/deep-learning.png" alt="Deep Learning"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-transformer-artificial-intelligence-flat-flat-juicy-fish.png" alt="Transformers"/>
+</p>
