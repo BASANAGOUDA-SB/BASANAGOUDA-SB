@@ -91,16 +91,6 @@ I'm **Basanagouda SB**, a data-driven professional with over **3 years of indust
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BASANAGOUDA-SB&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASANAGOUDA-SB&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 > "I automate so many reports… Excel once thought I was a bot 🤖"
