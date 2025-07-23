@@ -81,7 +81,7 @@ I'm **Basanagouda SB**, a data-driven professional with over **3 years of indust
 - 📧 **Email**: [basanagoudasb1995@gmail.com](mailto:basanagoudasb1995@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/basanagouda-sb](https://www.linkedin.com/in/basanagouda-sb/)  
 - 🧠 **Coding Profiles**:  
-  [LeetCode](https://leetcode.com/) | [HackerRank](https://www.hackerrank.com/) | [GeeksForGeeks](https://www.geeksforgeeks.org/)
+  [LeetCode](https://leetcode.com/u/Basanagoudasb/) | [HackerRank](https://www.hackerrank.com/) | [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
 ---
 
