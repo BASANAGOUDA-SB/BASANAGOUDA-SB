@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Data Analyst | Business Analyst | Aspiring Data Scientist<br>
-  📍 Bangalore, India &nbsp;|&nbsp; 💼 Open to New Opportunities
+  📍 Bengalure, India &nbsp;|&nbsp; 💼 Open to New Opportunities
 </p>
 
 ---
