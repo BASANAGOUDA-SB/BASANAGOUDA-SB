@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Basanagouda SB**, a data-driven professional with over **3.11 years of industry experience** in Data Analytics and Business Analysis. Currently working as a **Business Analyst at Kalyani Motors**, I'm on a transition path toward becoming a **Data Scientist**, with a strong foundation in statistics, machine learning, and real-world problem solving.
+I'm **Basanagouda SB**, a data-driven professional with over **4.5 years of industry experience** in Data Analytics and Business Analysis. Currently working as a **Business Analyst at Kalyani Motors**, I'm on a transition path toward becoming a **Data Scientist**, with a strong foundation in statistics, machine learning, and real-world problem solving.
 
 🔍 Passionate about transforming raw data into actionable insights using tools like **Python, SQL, Power BI, Tableau**, and **Machine Learning**.  
 🎯 I enjoy solving analytical problems and building data pipelines, dashboards, and predictive models.
